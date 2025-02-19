@@ -1704,10 +1704,10 @@ input, select, textarea {
 			-webkit-transition-delay: 2.525s;
 			-ms-transition-delay: 2.525s;
 			transition-delay: 2.525s;
-			/* max-width: 300px;
+			max-width: 300px;
 			max-height: 500px; /* Adjust this value as needed */
-			height: auto;
-			width: auto;
+			/* height: auto;
+			width: auto; */
 			object-fit: contain; /* Ensures the image scales without cropping */
 
 			/* height: calc(40vh - 2em);
