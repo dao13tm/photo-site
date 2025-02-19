@@ -1704,7 +1704,7 @@ input, select, textarea {
 			-webkit-transition-delay: 2.525s;
 			-ms-transition-delay: 2.525s;
 			transition-delay: 2.525s;
-			max-width: 300%;
+			max-width: 300px;
 			max-height: 500px; /* Adjust this value as needed */
 			height: auto;
 			width: auto;
